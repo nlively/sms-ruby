@@ -5,7 +5,7 @@ In this tutorial, you will use the sinch_sms gem to send an sms with Sinch. For 
 ##Set up
 
 1. Create a Sinch developer account at [sinch.com/signup](http://www.sinch.com/dashboard/#/signup)
-2. In your develeoper dashboard, click **Apps** in the left menu
+2. In your developer dashboard, click **Apps** in the left menu
 3. Click **create new app**
 4. Name your app, and click **create**
 5. Take note of your app key and secret, you will need them in a few minutes
